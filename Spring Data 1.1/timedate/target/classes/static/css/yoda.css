@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.good {
+	text-align: center;
+	margin: 200px;
+	border: 10px solid red;
+}
+h3 {
+	color:green;
+}

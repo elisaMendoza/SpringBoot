@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+.container {
+	text-align: center;
+	margin: 200px;
+}
+h3 {
+	color: red;
+}

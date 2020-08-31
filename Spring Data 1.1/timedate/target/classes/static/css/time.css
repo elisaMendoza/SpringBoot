@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+h2 {
+	color: green;
+	font: sans-serif;
+	font-size: 40px;
+}
+.container {
+	text-align: center;
+	margin-top: 200px;
+	padding: 10px;
+
+}
+body {
+	background-color:#cfcfcf;
+}
